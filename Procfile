@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -jar target/tfm-pwfs-gateway-*.jar -Dserver.port=$PORT
